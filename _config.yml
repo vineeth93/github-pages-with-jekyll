@@ -1,7 +1,7 @@
 ---
-title: "new beginning"
-date:  2018-09-26
---- 
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
 author: vineeth shetty
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
